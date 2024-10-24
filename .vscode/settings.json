@@ -1,0 +1,8 @@
+{
+    "peacock.remoteColor": "#215732",
+    "conventionalCommits.scopes": [
+        "devcontainer.json",
+        "settings.json"
+    ],
+    "jest.jestCommandLine": "npm run test -- --runInBand --detectOpenHandles --forceExit",
+}
